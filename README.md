@@ -4,7 +4,7 @@
 
 - 🏆 Biggest goals: FIRE (Financial Independent & Retired Early)
 
-- 👀 I’m interested in building a website using HTML+CSS and JavaScript mainly for UI/UX projects purpose in the future after completing my learning progress.
+- 👀 I’m interested in building a website using HTML+CSS and JavaScript mainly for UI/UX projects purpose in the future after completing my learning progress. Solidity will be my next target.
 
 - 🌱 I’m currently learning HTML5, CSS and JavaScript. 
 
