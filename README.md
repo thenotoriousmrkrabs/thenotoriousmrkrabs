@@ -10,7 +10,7 @@
 
 - 💞️ I’m in the progress of building and creating my website that specifically updates my portfolio periodically with my strategies, analysis and signals.
 
-- ✨ Learning UI/UX and front-end coding is to earn income for daily expenses if I'm able to get any projects to work on.
+- ✨ #buidl stuff for smart contract
 
 - 📫 How to reach me: 
 E-mail: angjingkang@gmail.com
@@ -25,4 +25,4 @@ Instagram: https://www.instagram.com/jing_kang07/
 4. Cashflow Quadrant (RDPD series)
 
 - 💪 Quick quote: I'd rather be alone and achieve greatness than be surrounded by mediocrity.
-- 😂 Quick fun facts about me: I have a mental disorder forcing me to listen to Post Malone every day. And I like JOJI as well.
+- 😂 Quick fun facts about me: HAHA.
